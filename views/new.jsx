@@ -17,7 +17,7 @@ function New () {
             type="text"
             name="image"
             id="image"
-            required/>
+            />
            
             <label htmlFor="baker">Baker</label>
 <select name="baker" id="baker">
